@@ -1,4 +1,4 @@
-#This is a simple port-scanner that will scann up to 1-1025 ports.
+#This is a simple port-scanner that will scan up to 1-1025 ports.
 #This port-scanner will record the start and end times of scan process.
 # It will label if a port is open in clear text
 #Here is my code posted in the body of the email
